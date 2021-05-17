@@ -1,5 +1,6 @@
 #!/bin/bash -x
 
+#empcheck present or absent
 empCheck=$((RANDOM%2))
 isPresent=1
 
